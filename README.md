@@ -56,6 +56,7 @@
 
 
 <h2>Part 2: Configuration for Trial 7 </h2>
+<img width="846" alt="ClusterConfiguration" src="https://github.com/SRoche14/Large-Scale-Data-Processing-Project-1/assets/67879499/5d7e7c84-25a4-4540-bf64-e5c6b6e815f4">
 
 
 <h3> Process for Estimating Number of Trials for Trial 7 </h3>
